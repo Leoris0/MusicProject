@@ -1,0 +1,12 @@
+# Maestro WebUI Dependencies
+# 基础依赖
+gradio>=4.0.0
+numpy
+Pillow
+
+# 注意：运行完整功能还需要安装以下项目的依赖
+# - LongCat-Video: 请参考 LongCat-Video/requirements.txt
+# - SongGeneration: 请参考 SongGeneration/requirements.txt
+
+
+

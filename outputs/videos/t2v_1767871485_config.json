@@ -1,0 +1,14 @@
+{
+  "type": "text_to_video",
+  "prompt": "A beautiful sunset over the ocean, waves gently crashing on the beach, seagulls flying in the golden sky.",
+  "negative_prompt": "blurry, low quality, distorted, ugly",
+  "height": 480,
+  "width": 832,
+  "num_frames": 93,
+  "num_inference_steps": 50,
+  "guidance_scale": 4.0,
+  "seed": 42,
+  "use_distill": false,
+  "output_path": "D:\\PY project\\Maestro\\WebUI\\outputs\\videos\\t2v_1767871485.mp4",
+  "checkpoint_dir": "D:\\PY project\\Maestro\\LongCat-Video\\weights\\LongCat-Video"
+}
